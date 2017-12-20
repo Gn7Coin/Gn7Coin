@@ -1,0 +1,2 @@
+# Gn7Coin
+O Gn7Coin [GN7] Blockchain é um protocolo de plataforma de contrato inteligente experimental que permite pagamentos instantâneos a qualquer pessoa, em qualquer lugar do mundo de forma privada e segura. Gn7Coin [GN7] usa tecnologia de cadeia de blocos peer-to-peer desenvolvida pela Bitcoin para operar sem autoridade central: gerenciar transações, executar contratos e emitir dinheiro são realizadas coletivamente pela rede. Gn7Coin [GN7] é o nome do software de código aberto que permite a utilização deste protocolo.
